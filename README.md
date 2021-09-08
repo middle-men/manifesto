@@ -1,3 +1,5 @@
+# Manifest
+
 The same way Switzerland keeps everybody's money, we strive to be internet's neutral ground.
 
 The idea is to contextualise web pages that are currently seen by a user.
